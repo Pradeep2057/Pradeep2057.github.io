@@ -1137,7 +1137,7 @@ header.fix_style .navbar-expand-lg .navbar-nav .nav-link.dark_btn {
   left: 0;
   width: 90px;
   height: 90px;
-  background-image: url(../images/new/Syncfollowers.svg);
+  background-image: url(../images/new/solution_1.svg);
   background-size: contain;
 }
 
@@ -1383,7 +1383,9 @@ header.fix_style .navbar-expand-lg .navbar-nav .nav-link.dark_btn {
   max-width: 600px;
   margin: 0 auto;
 }
-
+.integration_section .section_title{
+  max-width: 770px;
+}
 .integration_section .section_title p {
   margin-bottom: 10px;
 }
